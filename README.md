@@ -4,8 +4,8 @@
 A full-stack web application built to manage personal learning with features like real-time chat, video calling, AI-powered assistance, and role-based content access.
 
 🔗 Repositories
-Frontend: https://github.com/mayank013p/PLM_frontend
 
+Frontend: https://github.com/mayank013p/PLM_frontend
 Backend: https://github.com/mayank013p/plm_backend
 
 🚀 Features
